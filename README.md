@@ -31,7 +31,7 @@ This project analyzes the **Top 100 most played Steam games** to uncover pricing
 
 ## Dashboard
 
-![Steam Market Analysis Dashboard]<img width="1166" height="656" alt="Steam Market Analysis 4 24 2026" src="https://github.com/user-attachments/assets/4cd641c7-a50f-4b3d-83d6-9aa5f8726480" />
+<img width="1166" height="656" alt="Steam Market Analysis 4 24 2026" src="https://github.com/user-attachments/assets/4cd641c7-a50f-4b3d-83d6-9aa5f8726480" />
 
 **Page 1 — Market Overview**
 - KPI cards: Total Games, Avg Review Score, Estimate of All Owners
