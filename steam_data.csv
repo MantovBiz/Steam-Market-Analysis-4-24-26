@@ -1,0 +1,101 @@
+app_id,name,developer,publisher,price,positive,negative,total_reviews,review_score,owners_lower,is_free
+730,Counter-Strike: Global Offensive,Valve,Valve,0,7642084,1173003,8815087,86.7,100000000,Free
+1172470,Apex Legends,Respawn,Electronic Arts,0,668053,326926,994979,67.1,100000000,Free
+578080,PUBG: BATTLEGROUNDS,PUBG Corporation,"KRAFTON, Inc.",0,1520457,1037487,2557944,59.4,100000000,Free
+1623730,Palworld,Pocketpair,Pocketpair,29.99,358266,22443,380709,94.1,50000000,Paid
+440,Team Fortress 2,Valve,Valve,0,1044264,117208,1161472,89.9,50000000,Free
+1938090,Call of Duty: Modern Warfare II,"Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",Activision,38.49,419594,294520,714114,58.8,50000000,Paid
+1063730,New World: Aeternum,Amazon Games,Amazon Games,59.99,196798,90080,286878,68.6,50000000,Paid
+2358720,Black Myth: Wukong,Game Science,Game Science,59.99,1111720,38378,1150098,96.7,50000000,Paid
+271590,Grand Theft Auto V Legacy,Rockstar North,Rockstar Games,0,1739980,250576,1990556,87.4,50000000,Free
+550,Left 4 Dead 2,Valve,Valve,9.99,940221,23762,963983,97.5,50000000,Paid
+304930,Unturned,Smartly Dressed Games,Smartly Dressed Games,0,506516,48852,555368,91.2,50000000,Free
+1599340,Lost Ark,Smilegate RPG,Amazon Games,0,143481,58540,202021,71,50000000,Free
+236390,War Thunder,Gaijin Entertainment,Gaijin Network Ltd,0,484469,272617,757086,64,20000000,Free
+2246340,Monster Hunter Wilds,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",69.99,127273,91142,218415,58.3,20000000,Paid
+553850,HELLDIVERS 2,Arrowhead Game Studios,PlayStation Publishing LLC,39.99,775883,241752,1017635,76.2,20000000,Paid
+230410,Warframe,Digital Extremes,Digital Extremes,0,545393,81110,626503,87.1,20000000,Free
+1245620,ELDEN RING,"FromSoftware, Inc.","FromSoftware, Inc., Bandai Namco Entertainment",59.99,981540,75137,1056677,92.9,20000000,Paid
+105600,Terraria,Re-Logic,Re-Logic,9.99,1373979,35494,1409473,97.5,20000000,Paid
+2694490,Path of Exile 2,Grinding Gear Games,Grinding Gear Games,29.99,118511,50510,169021,70.1,20000000,Paid
+431960,Wallpaper Engine,Wallpaper Engine Team,Wallpaper Engine Team,4.99,876898,17560,894458,98,20000000,Paid
+1086940,Baldur's Gate 3,Larian Studios,Larian Studios,59.99,736688,23974,760662,96.8,20000000,Paid
+291550,Brawlhalla,Blue Mammoth Games,Ubisoft,0,314809,71647,386456,81.5,20000000,Free
+4000,Garry's Mod,Facepunch Studios,Valve,9.99,1122546,37161,1159707,96.8,20000000,Paid
+1085660,Destiny 2,Bungie,Bungie,0,497891,127725,625616,79.6,20000000,Free
+359550,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal,Ubisoft,19.99,1172854,225730,1398584,83.9,20000000,Paid
+252490,Rust,Facepunch Studios,Facepunch Studios,39.99,1071135,156649,1227784,87.2,20000000,Paid
+552990,World of Warships,Wargaming Group Limited,Wargaming Group Limited,0,112887,33665,146552,77,20000000,Free
+346110,ARK: Survival Evolved,"Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC","Studio Wildcard, Snail Games USA",14.99,612177,117993,730170,83.8,20000000,Paid
+413150,Stardew Valley,ConcernedApe,ConcernedApe,14.99,872384,13811,886195,98.4,20000000,Paid
+242760,The Forest,Endnight Games Ltd,Endnight Games Ltd,19.99,599805,27986,627791,95.5,20000000,Paid
+1491000,War Robots: Frontiers,MY.GAMES,MY.GAMES,0,1977,1105,3082,64.1,20000000,Free
+238960,Path of Exile,Grinding Gear Games,Grinding Gear Games,0,209822,25269,235091,89.3,20000000,Free
+218620,PAYDAY 2,OVERKILL - a Starbreeze Studio.,Starbreeze Entertainment,9.99,594327,68755,663082,89.6,20000000,Paid
+291480,Warface: Clutch,MY.GAMES,MY.GAMES,0,54554,27643,82197,66.4,20000000,Free
+901583,Grand Theft Auto IV: Complete Edition,"Rockstar North, Rockstar Toronto",Rockstar Games,0,144570,30702,175272,82.5,20000000,Free
+899770,Last Epoch,Eleventh Hour Games,Eleventh Hour Games,34.99,88027,22596,110623,79.6,20000000,Paid
+340,Half-Life 2: Lost Coast,Valve,Valve,19.99,12215,1471,13686,89.3,20000000,Paid
+1091500,Cyberpunk 2077,CD PROJEKT RED,CD PROJEKT RED,20.99,713071,131850,844921,84.4,20000000,Paid
+381210,Dead by Daylight,Behaviour Interactive Inc.,Behaviour Interactive Inc.,7.99,630223,166993,797216,79.1,20000000,Paid
+990080,Hogwarts Legacy,Avalanche Software,Warner Bros. Games,59.99,289966,31429,321395,90.2,20000000,Paid
+438100,VRChat,VRChat Inc.,VRChat Inc.,0,181623,58732,240355,75.6,20000000,Free
+292030,The Witcher 3: Wild Hunt,CD PROJEKT RED,CD PROJEKT RED,7.99,802993,32356,835349,96.1,20000000,Paid
+945360,Among Us,Innersloth,Innersloth,4.99,643681,57104,700785,91.9,20000000,Paid
+1097150,Fall Guys: Ultimate Knockout,Mediatonic,Ravenscourt,0,385154,88589,473743,81.3,20000000,Free
+49520,Borderlands 2,"Gearbox Software, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",8.79,272900,22318,295218,92.4,10000000,Paid
+227300,Euro Truck Simulator 2,SCS Software,SCS Software,19.99,844480,22924,867404,97.4,10000000,Paid
+892970,Valheim,Iron Gate AB,Coffee Stain Publishing,9.99,471451,28377,499828,94.3,10000000,Paid
+739630,Phasmophobia,Kinetic Games,Kinetic Games,19.99,736611,32168,768779,95.8,10000000,Paid
+444090,Paladins,Evil Mojo Games,Hi-Rez Studios,0,294373,52031,346404,85,10000000,Free
+1203220,NARAKA: BLADEPOINT,24 Entertainment,NetEase Games Global,0,225960,98967,324927,69.5,10000000,Free
+320,Half-Life 2: Deathmatch,Valve,Valve,19.99,12962,1334,14296,90.7,10000000,Paid
+70,Half-Life,Valve,Valve,9.99,143086,5135,148221,96.5,10000000,Paid
+582010,Monster Hunter: World,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",29.99,434239,59151,493390,88,10000000,Paid
+227940,Heroes & Generals,TLM Partners,TLM Partners,0,96499,46264,142763,67.6,10000000,Free
+252950,Rocket League,Psyonix LLC,Psyonix LLC,0,509445,73775,583220,87.4,10000000,Free
+108600,Project Zomboid,The Indie Stone,The Indie Stone,19.99,355171,21892,377063,94.2,10000000,Paid
+1966720,Lethal Company,Zeekerss,Zeekerss,9.99,473422,13738,487160,97.2,10000000,Paid
+1174180,Red Dead Redemption 2,Rockstar Games,Rockstar Games,59.99,676667,56875,733542,92.2,10000000,Paid
+1517290,Battlefield 2042,DICE,Electronic Arts,59.99,139186,158588,297774,46.7,10000000,Paid
+1240440,Halo Infinite,343 Industries,Xbox Game Studios,0,123333,53708,177041,69.7,10000000,Free
+648800,Raft,Redbeet Interactive,Axolot Games,19.99,323198,23161,346359,93.3,10000000,Paid
+386360,SMITE,Titan Forge Games,Hi-Rez Studios,0,94368,25428,119796,78.8,10000000,Free
+444200,World of Tanks Blitz,Wargaming Group Limited,Wargaming Group Limited,0,116407,31754,148161,78.6,10000000,Free
+10,Counter-Strike,Valve,Valve,9.99,243818,6427,250245,97.4,10000000,Paid
+240,Counter-Strike: Source,Valve,Valve,9.99,175426,6808,182234,96.3,10000000,Paid
+3164500,Schedule I,TVGS,TVGS,19.99,200803,3238,204041,98.4,10000000,Paid
+755790,Ring of Elysium,Aurora Studio,TCH Scarlet Limited,0,74345,25492,99837,74.5,10000000,Free
+400,Portal,Valve,Valve,9.99,175024,2717,177741,98.5,10000000,Paid
+1222670,The Sims 4,Maxis,Electronic Arts,0,149064,21663,170727,87.3,10000000,Free
+550650,Black Squad,"VALOFE, NS STUDIO",VALOFE,0,62042,19672,81714,75.9,10000000,Free
+322330,Don't Starve Together,Klei Entertainment,Klei Entertainment,14.99,475393,23668,499061,95.3,10000000,Paid
+239140,Dying Light,Techland,Techland,24.99,435687,21945,457632,95.2,10000000,Paid
+477160,Human Fall Flat,No Brakes Games,Curve Games,19.99,202253,11387,213640,94.7,10000000,Paid
+251570,7 Days to Die,The Fun Pimps,The Fun Pimps Entertainment LLC,44.99,327889,42157,370046,88.6,10000000,Paid
+100,Counter-Strike: Condition Zero,Valve,Valve,9.99,13442,1535,14977,89.8,10000000,Paid
+1665460,eFootball,KONAMI,KONAMI,0,44067,48266,92333,47.7,10000000,Free
+417910,Street Warriors Online,Crazy Rocks Studios,Crazy Rocks Studios,1.99,941,693,1634,57.6,10000000,Paid
+433850,Z1 Battle Royale,Daybreak Game Company,Daybreak Game Company,0,113729,90284,204013,55.7,10000000,Free
+594650,Hunt: Showdown 1896,Crytek,Crytek,13.49,181110,67110,248220,73,10000000,Paid
+814380,Sekiro: Shadows Die Twice - GOTY Edition,"FromSoftware, Inc.","Activision (Excluding Japan and Asia), FromSoftware, Inc. (Japan), 方块游戏 (Asia)",59.99,307041,15193,322234,95.3,10000000,Paid
+1116170,CyberCorp,Megame LLC,Megame LLC,14.99,266,56,322,82.6,10000000,Paid
+220,Half-Life 2,Valve,Valve,9.99,239721,5906,245627,97.6,10000000,Paid
+107410,Arma 3,Bohemia Interactive,Bohemia Interactive,8.99,256128,27136,283264,90.4,10000000,Paid
+1326470,Sons Of The Forest,Endnight Games Ltd,Newnight ,29.99,222495,31051,253546,87.8,10000000,Paid
+219990,Grim Dawn,Crate Entertainment,Crate Entertainment,24.99,93489,6241,99730,93.7,10000000,Paid
+255710,Cities: Skylines,Colossal Order,Paradox Interactive,29.99,256362,19408,275770,93,10000000,Paid
+261550,Mount & Blade II: Bannerlord,TaleWorlds Entertainment,TaleWorlds Entertainment,24.99,232360,32031,264391,87.9,10000000,Paid
+8930,Sid Meier's Civilization V,"Firaxis Games, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",29.99,195724,8541,204265,95.8,10000000,Paid
+304050,Trove,gamigo US Inc.,gamigo US Inc.,0,74103,18267,92370,80.2,10000000,Free
+289070,Sid Meier’s Civilization VI,"Firaxis Games, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",59.99,304053,45867,349920,86.9,10000000,Paid
+377160,Fallout 4,Bethesda Game Studios,Bethesda Softworks,19.99,326054,66233,392287,83.1,10000000,Paid
+532210,Life is Strange 2,"DONTNOD Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)","Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)",31.96,31616,5018,36634,86.3,10000000,Paid
+2186680,"Warhammer 40,000: Rogue Trader",Owlcat Games,Owlcat Games,49.99,26360,4445,30805,85.6,10000000,Paid
+1238810,Battlefield V,DICE,Electronic Arts,49.99,177352,72936,250288,70.9,10000000,Paid
+3241660,R.E.P.O.,semiwork,semiwork,9.99,179154,6488,185642,96.5,10000000,Paid
+221100,DayZ,Bohemia Interactive,Bohemia Interactive,22.49,330349,99903,430252,76.8,10000000,Paid
+526870,Satisfactory,Coffee Stain Studios,Coffee Stain Publishing,27.99,225479,6585,232064,97.2,10000000,Paid
+1089350,NBA 2K20,Visual Concepts,2K,0,30260,30413,60673,49.9,5000000,Free
+632360,Risk of Rain 2,Hopoo Games,Gearbox Publishing,24.99,293127,20450,313577,93.5,5000000,Paid
+1811260,EA SPORTS FIFA 23,EA Canada &amp; EA Romania,Electronic Arts,0,86192,65227,151419,56.9,5000000,Free
